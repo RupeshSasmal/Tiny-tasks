@@ -64,6 +64,12 @@ For Android development:
 
     npx expo run:android
 
+## Contribution
+
+Contributor: Rupesh Sasmal
+
+This project was developed as part of a team capstone project. My contributions included frontend and backend development, including changes to the Google Sign-In flow and Express backend request handling. The repository preserves the original project history and structure.
+
 ## Author
 
 Rupesh Sasmal
